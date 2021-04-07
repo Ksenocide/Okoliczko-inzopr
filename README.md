@@ -1,5 +1,5 @@
 # Kalkulator - instrukcja
-PRZECZYTAJ MNIE
+PRZECZYTAJ MNIE ++
 To jest prosty projekt kalkulatora
 
 Robimy go przy okazji nauki gita.
