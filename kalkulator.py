@@ -10,4 +10,4 @@ print(dodaj(a,b))
 get_info()
 dodaj()
 
-
+SSH
