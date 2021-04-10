@@ -1,7 +1,4 @@
-def dodaj()
+def dodaj(a,b)
     print('Wprowadź dwie liczby')
-    a = int(input())
-    b = int(input())
     print(a + b)
-    
-TERAZ TO JUZ ŁADNA FUNKCJA DODAWANIA
+    TERAZ TO JUZ ŁADNA FUNKCJA DODAWANIA
