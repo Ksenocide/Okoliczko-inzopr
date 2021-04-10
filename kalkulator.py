@@ -4,3 +4,4 @@ def dodaj()
     b = int(input())
     print(a + b)
     
+TERAZ TO JUZ ŁADNA FUNKCJA DODAWANIA
